@@ -25,3 +25,7 @@ UvicornとGunicornの併用
 K8sに絡めた技術。PrometheusやGrafana
 https://zenn.dev/hayato94087/books/94bf9a15a98684/viewer/i040cgy5gc1hbiqn
 にあるようなフォーマットスクリプト
+AIで自動スケーリング
+連合学習について学びたい
+WifiDirectを実装してみたい
+VUI(Voice UI)を実装してみたい
