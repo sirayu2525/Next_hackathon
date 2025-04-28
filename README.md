@@ -29,3 +29,7 @@ AIで自動スケーリング
 連合学習について学びたい
 WifiDirectを実装してみたい
 VUI(Voice UI)を実装してみたい
+Astro使ってみたい
+Webサイトに通知機能つけたい
+gRPCとconnectとgRPC-Gatewayについて使いたい
+JWTなどの認証系

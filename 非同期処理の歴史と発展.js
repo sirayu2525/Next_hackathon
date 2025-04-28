@@ -42,7 +42,10 @@ console.log(result); // ← 「データ取得完了」が表示される
 // → Promiseでもまだ読みづらいので、async/await が登場！
 
 // 超簡易Promise
-function myPromise(fn) {
+//function example(callback) {
+//   callback(); // ← こうやってあとで実行する
+// }  これに基づいてます
+function myPromise(fn) { 
   let onSuccess;
   let onFail;
 
@@ -76,3 +79,5 @@ myPromise((resolve, reject) => {
 }).catch(err => {
   console.log("catch:", err);
 });
+
+// 詳しいSPAにおける画面遷移方式の発展の歴史⇒https://blog.jxck.io/entries/2022-04-22/navigation-api.html
